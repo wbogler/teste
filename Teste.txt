@@ -6,3 +6,4 @@ nova alteração em develop
 nova alteração em staging
 nova alteração em develop para conflito
 conflito 2 para resolver no hub
+novo conflito par ao hub, from staging.
